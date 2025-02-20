@@ -1,3 +1,3 @@
 # Money-Control
 This is my first Git Repository
-Awthor- Jiban Lima
+Author- Jiban Lima
